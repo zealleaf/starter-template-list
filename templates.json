@@ -1,10 +1,10 @@
 {
-  "· react-vite": {
+  "· vite-react": {
     "color": "green",
-    "url": "https://github.com/zealleaf/react-vite-template.git#main"
+    "url": "https://github.com/zealleaf/template-vite-react#main"
   },
   "· package-ui": {
     "color": "yellow",
-    "url": "https://github.com/zealleaf/package-ui-template.git#main"
+    "url": "https://github.com/zealleaf/template-package-ui#main"
   }
 }
