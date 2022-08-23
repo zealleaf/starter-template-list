@@ -6,5 +6,9 @@
   "· package-ui": {
     "color": "yellow",
     "url": "https://github.com/zealleaf/template-package-ui#main"
+  },
+  "· webpack5-react-ts": {
+    "color": "pink",
+    "url": "https://github.com/zwinnie1219/webpack5-test.git#main"
   }
 }
