@@ -1,13 +1,21 @@
 {
-  "· vite-react": {
+  "setup-ts": {
+    "color": "blue",
+    "url": "https://github.com/zealleaf/setup-ts#main"
+  },
+  "setup-ts-lite": {
+    "color": "blue",
+    "url": "https://github.com/zealleaf/setup-ts-lite#main"
+  },
+  "vite-react": {
     "color": "green",
     "url": "https://github.com/zealleaf/template-vite-react#main"
   },
-  "· package-ui": {
+  "package-ui": {
     "color": "yellow",
     "url": "https://github.com/zealleaf/template-package-ui#main"
   },
-  "· webpack5-react-ts": {
+  "webpack5-react-ts": {
     "color": "magenta",
     "url": "https://github.com/zwinnie1219/webpack5-test.git#main"
   }
